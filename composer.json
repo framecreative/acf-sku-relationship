@@ -1,0 +1,15 @@
+{
+    "name": "framecreative/acf-sku-relationship",
+    "description": "An Advanced Custom Fields field for relating Products by SKU",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Frame Creative",
+            "email": "digital@framecreative.com.au"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
